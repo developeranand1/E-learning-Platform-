@@ -1,0 +1,57 @@
+.bg-login{
+    background-color: #f2f1f2;
+    padding: 50px;
+}
+
+h4.logo {
+    color: red;
+    font-size: 19px;
+    font-weight: 800;
+}
+
+
+h1.title {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.bordered{
+    border-right: 1px solid red;
+}
+
+.google-with{
+    background-color: #ebdcdc;
+    padding: 8px;
+    border-radius: 4px;
+
+}
+
+a.google-login {
+    font-size: 16px;
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
+
+a.google-login img{
+    padding-right: 10px;
+    width: 27px;
+}
+
+.show-password {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+label.remember-me {
+    padding: 0px 8px;
+}
+
+a.forget-password {
+    text-decoration: none;
+}
+
+a.create-btn {
+    text-decoration: none;
+}

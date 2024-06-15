@@ -1,0 +1,11 @@
+.form-control:focus {
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+
+.d-flex button a{
+    color: #000;
+    text-decoration: none;
+}

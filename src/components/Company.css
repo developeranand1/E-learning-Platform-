@@ -1,0 +1,9 @@
+img.partner-logo {
+  width: 100px;
+}
+
+.img-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

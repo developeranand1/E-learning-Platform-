@@ -1,0 +1,16 @@
+.follow-now {
+    justify-content: flex-start;
+    display: flex;
+    align-items: baseline;
+}
+
+.follow-title{
+    color: #fff;
+    padding: 4px 15px;
+}
+
+.follow-now li {
+    list-style: none;
+    padding: 0px 11px;
+    font-size: 31px;
+}

@@ -1,0 +1,33 @@
+.offer-bg{
+    margin: 30px 0px;
+    background-color: #ecedf1;
+    padding: 37px;
+}
+
+ul.ul-list {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    background-color: #dde0e5;
+}
+
+ul.ul-list li{
+    list-style: none;
+    padding: 11px;
+}
+
+ul.ul-list li a{
+    padding: 5px;
+    text-decoration: none;
+    color: #2B3035;
+}
+
+ul.ul-list li a.active-link{
+    padding: 6px 12px;
+    color: #fff;
+    border-radius: 5px;
+    background: #2B3035;
+}
+a.last-link {
+    padding-right: 25px !important;
+}

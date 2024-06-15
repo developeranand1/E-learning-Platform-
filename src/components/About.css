@@ -1,0 +1,16 @@
+.bg-img{
+    text-align: center;
+    background-color: #dad9d5;
+    padding: 15px 0px 5px 0px;
+    margin: 0 20px;
+    border-bottom-left-radius: 102px;
+    border-bottom-right-radius: 117px;
+    border-top-right-radius: 96px;
+    border-top-left-radius: 339px;
+}
+
+img.happy-img {
+    position: absolute;
+    width: 88px;
+    left: 754px;
+}
